@@ -174,6 +174,7 @@ return array(
 		'queries' => 'User queries',
 		'reading' => 'Reading',
 		'search' => 'Search words or #tags',
+		'search_help' => 'See documentation for advanced <a href="https://freshrss.github.io/FreshRSS/en/users/10_filter.html#with-the-search-field" target="_blank">search parameters</a>',	// TODO
 		'sharing' => 'Sharing',
 		'shortcuts' => 'Shortcuts',
 		'stats' => 'Statistics',
@@ -196,6 +197,7 @@ return array(
 		'clipboard' => 'Clipboard',
 		'diaspora' => 'Diaspora*',
 		'email' => 'Email',
+		'email-webmail-firefox-fix' => 'Email (webmail - fix for Firefox)',	// TODO
 		'facebook' => 'Facebook',
 		'gnusocial' => 'GNU social',
 		'jdh' => 'Journal du hacker',

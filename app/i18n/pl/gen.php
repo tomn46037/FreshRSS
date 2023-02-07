@@ -174,6 +174,7 @@ return array(
 		'queries' => 'Zapisane zapytania',
 		'reading' => 'Czytanie',
 		'search' => 'Wyszukaj wyrazy lub #tagi',
+		'search_help' => 'See documentation for advanced <a href="https://freshrss.github.io/FreshRSS/en/users/10_filter.html#with-the-search-field" target="_blank">search parameters</a>',	// TODO
 		'sharing' => 'Podawanie dalej',
 		'shortcuts' => 'Skróty klawiszowe',
 		'stats' => 'Statystyki',
@@ -196,6 +197,7 @@ return array(
 		'clipboard' => 'Schowek',
 		'diaspora' => 'Diaspora*',	// IGNORE
 		'email' => 'E-mail',
+		'email-webmail-firefox-fix' => 'Email (webmail - fix for Firefox)',	// TODO
 		'facebook' => 'Facebook',	// IGNORE
 		'gnusocial' => 'GNU social',	// IGNORE
 		'jdh' => 'Journal du hacker',	// IGNORE

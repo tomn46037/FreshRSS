@@ -174,6 +174,7 @@ return array(
 		'queries' => 'Kullanıcı sorguları',
 		'reading' => 'Okuma',
 		'search' => 'Kelime veya #etiket ara',
+		'search_help' => 'See documentation for advanced <a href="https://freshrss.github.io/FreshRSS/en/users/10_filter.html#with-the-search-field" target="_blank">search parameters</a>',	// TODO
 		'sharing' => 'Paylaşım',
 		'shortcuts' => 'Kısayollar',
 		'stats' => 'İstatistikler',
@@ -196,6 +197,7 @@ return array(
 		'clipboard' => 'Kopyala',
 		'diaspora' => 'Diaspora*',	// IGNORE
 		'email' => 'Email',	// IGNORE
+		'email-webmail-firefox-fix' => 'Email (webmail - fix for Firefox)',	// TODO
 		'facebook' => 'Facebook',	// IGNORE
 		'gnusocial' => 'GNU social',	// IGNORE
 		'jdh' => 'Journal du hacker',	// IGNORE
